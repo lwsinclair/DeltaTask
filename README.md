@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/brysontang-deltatask-badge.png)](https://mseep.ai/app/brysontang-deltatask)
+
 # DeltaTask - Advanced Task Management System
 
 A powerful, locally-hosted task management application with Obsidian integration and a Model Context Protocol (MCP) server.
